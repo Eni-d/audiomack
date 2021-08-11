@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0969d9f9.chunk.css",
+    "main.js": "/static/js/main.669593c0.chunk.js",
+    "main.js.map": "/static/js/main.669593c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b2b1293.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b2b1293.js.map",
+    "static/js/2.76bed3f6.chunk.js": "/static/js/2.76bed3f6.chunk.js",
+    "static/js/2.76bed3f6.chunk.js.map": "/static/js/2.76bed3f6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6cdadb5d1ea2f6aad1951f1d46b6cb7e.js": "/precache-manifest.6cdadb5d1ea2f6aad1951f1d46b6cb7e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0969d9f9.chunk.css.map": "/static/css/main.0969d9f9.chunk.css.map",
+    "static/js/2.76bed3f6.chunk.js.LICENSE.txt": "/static/js/2.76bed3f6.chunk.js.LICENSE.txt",
+    "static/media/08 JA ARA E.mp3": "/static/media/08 JA ARA E.1a2e711c.mp3",
+    "static/media/7.jpg": "/static/media/7.b1d39077.jpg",
+    "static/media/AF.jpeg": "/static/media/AF.38fcace1.jpeg",
+    "static/media/AmIAYahooBoy.png": "/static/media/AmIAYahooBoy.f2d4c641.png",
+    "static/media/Anybody.jpeg": "/static/media/Anybody.005fda29.jpeg",
+    "static/media/Ashes.png": "/static/media/Ashes.c9b9cade.png",
+    "static/media/Burna-Boy-Collateral-Damage-(JustNaija.com).mp3": "/static/media/Burna-Boy-Collateral-Damage-(JustNaija.com).0f702ae2.mp3",
+    "static/media/Burna-Boy-Gbona.mp3": "/static/media/Burna-Boy-Gbona.083d1c36.mp3",
+    "static/media/Burna-Boy-Wetin-Man-Go-Do-(JustNaija.com).mp3": "/static/media/Burna-Boy-Wetin-Man-Go-Do-(JustNaija.com).6c4f0471.mp3",
+    "static/media/Burna_Boy_Anybody_9jaflaver.com_.mp3": "/static/media/Burna_Boy_Anybody_9jaflaver.com_.dcfb5ad6.mp3",
+    "static/media/Burna_Boy_On_The_Low_9jaflaver.com_.mp3": "/static/media/Burna_Boy_On_The_Low_9jaflaver.com_.c660448e.mp3",
+    "static/media/Gbona.jpeg": "/static/media/Gbona.3a50b3f3.jpeg",
+    "static/media/Ginger.mp3": "/static/media/Ginger.88400cf4.mp3",
+    "static/media/JaAraE.png": "/static/media/JaAraE.87ff62a7.png",
+    "static/media/ML.jpeg": "/static/media/ML.7ed26b10.jpeg",
+    "static/media/Madi diaz - ashes.mp3": "/static/media/Madi diaz - ashes.51c61dfd.mp3",
+    "static/media/Naira_Marley_-_Am_I_A_Yahoo_Boy_Ft_Zlatan.mp3": "/static/media/Naira_Marley_-_Am_I_A_Yahoo_Boy_Ft_Zlatan.369a4dba.mp3",
+    "static/media/all.css": "/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b2b1293.js",
+    "static/js/2.76bed3f6.chunk.js",
+    "static/css/main.0969d9f9.chunk.css",
+    "static/js/main.669593c0.chunk.js"
+  ]
+}

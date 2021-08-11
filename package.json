@@ -1,0 +1,18 @@
+{
+  "name": "audiomack",
+  "version": "1.0.0",
+  "description": "A dummy audiomack like app that plays a couple of songs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Daniel Eni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">=14.7.0",
+    "npm": ">=6.14.3"
+  }
+}
